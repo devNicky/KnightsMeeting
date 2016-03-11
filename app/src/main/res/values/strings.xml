@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chess</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_birthday">Birthday</string>
+    <string name="impossible">They never meets</string>
+    <string name="meeting1">"They meets after "</string>
+    <string name="meeting2">" moves"</string>
+    <string name="celebrate">They already celebrate!</string>
+
+</resources>
